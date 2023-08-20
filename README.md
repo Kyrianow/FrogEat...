@@ -9,7 +9,7 @@
 <details><summary>List of mobs</summary>
 
 - [Allay](https://modrinth.com/datapack/frog-eat-allay) 
-- [Armor Stand](https://modrinth.com/datapack/frog-eat-armor-stand) 
+- [Armor Stand](https://modrinth.com/datapack/frog-move-armor-stand) 
 > Don't eat it, just move it
 - [Axolotl](https://modrinth.com/datapack/frog-eat-axolotl) 
 - [Bat](https://modrinth.com/datapack/frog-eat-bat) 
@@ -20,7 +20,6 @@
 - [Cat](https://modrinth.com/datapack/frog-eat-cat)  
 - [Cave Spider](https://modrinth.com/datapack/frog-eat-cave-spider)  
 - [Chicken](https://modrinth.com/datapack/frog-eat-chicken)  
-- [Clown Fish](https://modrinth.com/datapack/frog-eat-clown-fish)  
 - [Cod](https://modrinth.com/datapack/frog-eat-cod)  
 - [Cow](https://modrinth.com/datapack/frog-eat-cow)  
 - [Creeper](https://modrinth.com/datapack/frog-eat-creeper)  
@@ -32,7 +31,7 @@
 - [Endermite](https://modrinth.com/datapack/frog-eat-endermite)  
 - [Evoker](https://modrinth.com/datapack/frog-eat-evoker)  
 - [Fox](https://modrinth.com/datapack/frog-eat-fox)  
-- [Frog](https://modrinth.com/datapack/frog-eat-frog-royal)  
+- [Frog](https://modrinth.com/datapack/frog-royal)  
 - [Glow Squid](https://modrinth.com/datapack/frog-eat-glow-squid)  
 - [Goat](https://modrinth.com/datapack/frog-eat-goat)  
 - [Guardian](https://modrinth.com/datapack/frog-eat-guardian)  
@@ -117,7 +116,8 @@
 - [Stray](https://modrinth.com/datapack/frog-eat-stray)    
 - [Strider](https://modrinth.com/datapack/frog-eat-strider)    
 - [Tadpole](https://modrinth.com/datapack/frog-eat-tadpole)    
-- [Trader Llama](https://modrinth.com/datapack/frog-eat-trader-llama)    
+- [Trader Llama](https://modrinth.com/datapack/frog-eat-trader-llama)   
+- [Tropical Fish](https://modrinth.com/datapack/frog-eat-tropical-fish)   
 - [Turtle](https://modrinth.com/datapack/frog-eat-turtle)    
 - [Vex](https://modrinth.com/datapack/frog-eat-vex)    
 - [Villager](https://modrinth.com/datapack/frog-eat-villager)    
