@@ -1,2 +1,0 @@
-# Gives a strength effect to frogs within 2 blocks of a witch to help them kill them with one hit.
-execute at @e[type=minecraft:witch] run effect give @e[type=frog,distance=..2] minecraft:strength 1 5 true
